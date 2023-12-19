@@ -155,7 +155,7 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          请在设置里调整模型为gpt4,默认是3.5,笨笨的哦~
+          已经将网页默认模型改为gpt4,不用手动改了哟
         </div>
         <div className={styles["sidebar-sub-title"]}>
           呱呱~
