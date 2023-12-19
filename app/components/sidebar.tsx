@@ -155,10 +155,10 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          已经将网页默认模型改为gpt4,不用手动改了哟
+          肚子的免费gpt4
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          呱呱~
+          因为我自己不用这个,麻烦加我微信:xuxuxu3601 反馈一下使用情况咯( ´ω`)
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
