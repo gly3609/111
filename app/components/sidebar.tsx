@@ -155,7 +155,7 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          肚子还小还能吃的Chatgpt  ⊂(‘ω’⊂ )))Σ≡=─༄༅༄༅༄༅༄༅༄༅
+          肚子还小还能吃的Chatgpt  ⊂(‘ω’⊂ )))Σ≡=
         </div>
         <div className={styles["sidebar-sub-title"]}>
           我的微信:xuxuxu3601 可以反馈一下使用情况哟୧(๑•̀ᴗ•́๑)୨ (我自己不用这个)
