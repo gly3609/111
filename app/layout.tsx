@@ -6,7 +6,7 @@ import { getClientConfig } from "./config/client";
 import { type Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "肚子的Chatgpt",
+  title: "肚子还小还能吃的Chatgpt  ⊂(‘ω’⊂ )))Σ≡=─༄༅༄༅",
   description: "可以免费用的哟",
   viewport: {
     width: "device-width",
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     { media: "(prefers-color-scheme: dark)", color: "#151515" },
   ],
   appleWebApp: {
-    title: "肚子的Chatgpt",
+    title: "肚子还小还能吃的Chatgpt  ⊂(‘ω’⊂ )))Σ≡=─༄༅༄༅",
     statusBarStyle: "default",
   },
 };
